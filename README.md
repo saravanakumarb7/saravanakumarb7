@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **er.saravanakumarb7@gmail.com**
 
